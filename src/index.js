@@ -7,8 +7,8 @@ const app = express();
  
 app.use(express.json());
 app.use(multer().any());
-
 mongoose.set("strictQuery", false);
+
 mongoose
   .connect(
     "mongodb+srv://nishant55:1234@nishant99.et97kst.mongodb.net/group24Database",

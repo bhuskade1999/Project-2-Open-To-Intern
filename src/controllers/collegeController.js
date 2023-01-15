@@ -9,7 +9,7 @@ try{
     let data = req.body
     const{name, fullName, logoLink} = data
 
-    if(Object.keys(data) == 0){ return res.status(400).send({status: false, msg: "Please Provide Data in Body"})}
+    if(Object.keys(data).length == 0){ return res.status(400).send({status: false, msg: "Please Provide Data in Body"})}
     if(!name){return res.status(400).send({stats:false,msg:" name is required"})}
     if(!validator.isValidName(name)){ return res.status(400).send({status: false, msg: "Name not valid"})}
 
