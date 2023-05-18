@@ -1,6 +1,6 @@
-# Californium
+# Internshala
 
-## Open to Intern Project Requirement
+## This project contain backend code of internshala, where student can apply for internships. 
 
 ### Key points
 - Create a group database `group24Database`. You can clean the db you previously used and resue that.
