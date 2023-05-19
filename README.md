@@ -2,7 +2,7 @@
 
 ## This project contain backend code of internshala, where student can apply for internships. 
 
-### Teck Stack :
+## Teck Stack :
  - NodeJs
  - Express
  - Mongodb
