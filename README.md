@@ -1,6 +1,7 @@
 # Internshala Clone
 
-## This project contain backend code of internshala, where student can apply for internships. 
+### This project contain backend code of internshala, where student can apply for internships. 
+##
 
 ### Teck Stack :
  - NodeJs
