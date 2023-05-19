@@ -1,6 +1,7 @@
 # Internshala Clone
 
-### This project contain backend code of internshala, where student can apply for internships. 
+### - This project contain  the backend of a website like Naukri.com which registers companies and students looking for internships and job opportunities.
+- Used jsonwebtoken for authentication and authorization
 ##
 
 ### Teck Stack :
